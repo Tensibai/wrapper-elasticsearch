@@ -1,3 +1,7 @@
+DISCLAIMER
+==========
+This cookbook was made quick and dirty in a proof of concept with elasticsearch, it is of low quality at end but has value showcasing the minimum for a wrapper cookbook in Chef.
+
 wrapper-elasticsearch Cookbook
 ==========================
 TODO: Enter the cookbook description here.
